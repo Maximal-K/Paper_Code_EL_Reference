@@ -8,5 +8,5 @@ The code shown basically covers all the images in the original paper, but one bo
 
 
 
-The codes shown are done by myself, not by the team.
+The codes shown are done by Maximal-K, not by the team.
 
