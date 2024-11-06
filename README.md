@@ -8,5 +8,5 @@ The code shown basically covers all the images in the original paper, but one bo
 
 
 
-The code shown is done by myself, not by the team.
+The codes shown are done by myself, not by the team.
 
